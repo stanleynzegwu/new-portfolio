@@ -49,12 +49,12 @@ import {
       icon: mobile,
     },
     {
-      title: "Backend Developer",
-      icon: backend,
+      title: "3D Develpoer",
+      icon: creator,
     },
     {
-      title: "Creative",
-      icon: creator,
+      title: "Backend Developer",
+      icon: backend,
     },
   ];
   
